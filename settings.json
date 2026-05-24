@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "WhaleGangMC.aternos.me",
+    "port": 12075,
     "version": "",
     "try-creative": false
   },
